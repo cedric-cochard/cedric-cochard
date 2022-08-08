@@ -32,10 +32,14 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   </p>
 
-  
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedric-cochard&show_icons=true&locale=en&layout=compact" alt="cedric- cochard" /></p> 
+  <!-- api/top-langs?username=anuraghazra -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric-cochard&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cedric-cochard&show_icons=true&locale=en" alt ="cedric-cochard" /></p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric-cochard&count_private=true)
+
+  <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedric-cochard&show_icons=true&locale=en&layout=compact" alt="cedric- cochard" /></p> 
+
+  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cedric-cochard&show_icons=true&locale=en" alt ="cedric-cochard" /></p> -->
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cedric-cochard&" alt= "cedric-cochard" /></p>
 
