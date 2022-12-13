@@ -34,9 +34,10 @@
   </p>
 
   <!-- api/top-langs?username=anuraghazra -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric-cochard&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric-cochard&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedric-cochard&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cedric-cochard&count_private=true)
 
   <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cedric-cochard&show_icons=true&locale=en&layout=compact" alt="cedric- cochard" /></p> 
 
@@ -47,8 +48,7 @@
   <h3>Contact me:</h3>
   <p align="left">  
   <a href="https://twitter.com/cedriccochard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="cedriccochard" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/cedric-cochard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cedric-cochard" height="30" width="40" /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/cedric-cochard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cedric-cochard" height="30" width="40" /></a></p>
   </section>
 </body>
 </html>
