@@ -12,14 +12,15 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
   <img src="https://img.shields.io/badge/NPM-FF0000?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   <img src="https://img.shields.io/badge/Yarn-1572B6?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   <img src="https://img.shields.io/badge/Material.ui-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Material UI"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/>
+  <img src="https://img.shields.io/badge/phpmyadmin-777BB4?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=#F15133" alt="git"/></br>
  </section>
