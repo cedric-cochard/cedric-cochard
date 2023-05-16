@@ -40,7 +40,7 @@
 
 <h3>Statistics :</h3>
 <section>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cedric-cochard&langs_count=8&theme=blue-green" alt= "stats profil Github cedric-cochard" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric-cochard&langs_count=8&theme=blue-green" alt= "stats profil Github cedric-cochard" />
    <span>&emsp;</span>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedric-cochard&theme=blue-green" alt= "stats profil Github cedric-cochard" />
 </section>
