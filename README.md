@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   <img src="https://img.shields.io/badge/Material.ui-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Material UI"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Composer-cdb79e?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
+  <img src="https://img.shields.io/badge/Twig-B5C827?style=for-the-badge&logo=twig&logoColor=white" alt="Twig"/>
+  <img src="https://img.shields.io/badge/Doctrine-F56D39?style=for-the-badge&logo=doctrine&logoColor=white" alt="Doctrine"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql"/>
   <img src="https://img.shields.io/badge/phpmyadmin-777BB4?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
