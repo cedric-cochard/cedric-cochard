@@ -31,11 +31,11 @@
  <h3>I am learning :</h3>
 
  <section>
-   ✅ <img src="https://img.shields.io/badge/Symfony-100000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/> <span>&emsp;</span>
-   ❌ <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB" alt="Next.js"/> <span>&emsp;</span>
-   ❌ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <span>&emsp;</span>
-   ❌ <img src="https://img.shields.io/badge/Express.js-AAAAAA?style=for-the-badge&logo=express&logoColor=black" alt="Express.JS"/> <span>&emsp;</span>
-   ❌ <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+   ✅ <span>&nbsp;</span><img src="https://img.shields.io/badge/Symfony-100000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/> <span>&emsp;</span>
+   ❌ <span>&nbsp;</span><img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB" alt="Next.js"/> <span>&emsp;</span>
+   ❌ <span>&nbsp;</span><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> <span>&emsp;</span>
+   ❌ <span>&nbsp;</span><img src="https://img.shields.io/badge/Express.js-AAAAAA?style=for-the-badge&logo=express&logoColor=black" alt="Express.JS"/> <span>&emsp;</span>
+   ❌ <span>&nbsp;</span><img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
  </section>
 
 <h3>Statistics :</h3>
